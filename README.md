@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Zapx7/Leetcode-problems/tree/master/0001-two-sum) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Zapx7/Leetcode-problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/Zapx7/Leetcode-problems/tree/master/1913-maximum-product-difference-between-two-pairs) |
 ## Hash Table
 |  |
 | ------- |
@@ -69,8 +70,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Zapx7/Leetcode-problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/Zapx7/Leetcode-problems/tree/master/1913-maximum-product-difference-between-two-pairs) |
 ## Counting Sort
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Zapx7/Leetcode-problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Quicksort
+|  |
+| ------- |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/Zapx7/Leetcode-problems/tree/master/1913-maximum-product-difference-between-two-pairs) |
 <!---LeetCode Topics End-->
