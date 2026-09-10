@@ -17,9 +17,9 @@ public:
             {
                 l2 = nums[i];
             }
-        }
-        for(int i = 0 ; i < n ; i++)
-        {
+        
+        
+        
             if(nums[i] < s1 )
             {
                 s2 = s1 ;
