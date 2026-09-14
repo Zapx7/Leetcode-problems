@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Zapx7/Leetcode-problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/Zapx7/Leetcode-problems/tree/master/0035-search-insert-position) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Zapx7/Leetcode-problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1470-shuffle-the-array](https://github.com/Zapx7/Leetcode-problems/tree/master/1470-shuffle-the-array) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Zapx7/Leetcode-problems/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1929-concatenation-of-array](https://github.com/Zapx7/Leetcode-problems/tree/master/1929-concatenation-of-array) |
 ## Hash Table
