@@ -8,18 +8,15 @@ public:
 
         for(int i = 0 ; i < m ; i++)
         {
-            for(int j = 0 ; j < n ; j++)
-            {
-                if(nums1[i]== nums2[j])
+            s.insert(nums1[i]);
+        }
 
-                {
-                    if(s.find(nums1[i]) == s.end())
-                    {
-                        s.insert(nums1[i]);
-                    
-                        unique.push_back(nums1[i]);
-                    }
-                }
+        for(int i = 0 ; i < n ; i++)
+        {
+            if(s.find(nums2[i])!=s.end())
+            {
+                unique.push_back(nums2[i]);
+                s.erase(nums2[i]);
             }
         }
     return unique ;   
