@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Zapx7/Leetcode-problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Zapx7/Leetcode-problems/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/Zapx7/Leetcode-problems/tree/master/0349-intersection-of-two-arrays) |
+| [0704-binary-search](https://github.com/Zapx7/Leetcode-problems/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Zapx7/Leetcode-problems/tree/master/0724-find-pivot-index) |
 | [0896-monotonic-array](https://github.com/Zapx7/Leetcode-problems/tree/master/0896-monotonic-array) |
 | [0905-sort-array-by-parity](https://github.com/Zapx7/Leetcode-problems/tree/master/0905-sort-array-by-parity) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Zapx7/Leetcode-problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Zapx7/Leetcode-problems/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/Zapx7/Leetcode-problems/tree/master/0349-intersection-of-two-arrays) |
+| [0704-binary-search](https://github.com/Zapx7/Leetcode-problems/tree/master/0704-binary-search) |
 ## Matrix
 |  |
 | ------- |
