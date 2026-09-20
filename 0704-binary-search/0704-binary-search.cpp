@@ -7,9 +7,9 @@ public:
         
         
 
-        for(int i = 0 ; i < n ; i++)
+        while (low <= high)
         {
-            int mid = (high + low )/2;
+            int mid = low + (high - low )/2;
             if(target == nums[mid])
             {
                 return mid;
