@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/Zapx7/Leetcode-problems/tree/master/0292-nim-game) |
 | [0412-fizz-buzz](https://github.com/Zapx7/Leetcode-problems/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/Zapx7/Leetcode-problems/tree/master/0509-fibonacci-number) |
+| [1688-count-of-matches-in-tournament](https://github.com/Zapx7/Leetcode-problems/tree/master/1688-count-of-matches-in-tournament) |
 ## String
 |  |
 | ------- |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/Zapx7/Leetcode-problems/tree/master/0412-fizz-buzz) |
+| [1688-count-of-matches-in-tournament](https://github.com/Zapx7/Leetcode-problems/tree/master/1688-count-of-matches-in-tournament) |
 | [1929-concatenation-of-array](https://github.com/Zapx7/Leetcode-problems/tree/master/1929-concatenation-of-array) |
 ## Two Pointers
 |  |
